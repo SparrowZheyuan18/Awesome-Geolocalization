@@ -1,5 +1,5 @@
 # Awesome-Geolocation
-A Paper List of Geolocation Research
+A Paper List for Geolocation Research
 
 # Awesome Papers
 
