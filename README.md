@@ -7,6 +7,7 @@ A Paper List for Geolocation Research
 |:--------|:--------:|:--------:|:--------:|
 | [**PIGEON: Predicting Image Geolocations**](https://arxiv.org/abs/2307.05845) | CVPR | [Github](https://github.com/LukasHaas/PIGEON) | - |
 | [**Image and Object Geo-Localization**](https://link.springer.com/article/10.1007/s11263-023-01942-3) | IJCV | - | - |
+| [**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**](https://arxiv.org/abs/2309.16020v2) | NeurIPS |[Github](https://github.com/VicenteVivan/geo-clip?tab=readme-ov-file) | - |
 
 
 
