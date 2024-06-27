@@ -13,6 +13,7 @@ Retrieval based methods consider Geo-location as a retrieval task. Generally, tr
 |:--------|:--------:|:--------:|:--------:|
 | [**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**](https://arxiv.org/abs/2309.16020v2) | NeurIPS 2023 |[Github](https://github.com/VicenteVivan/geo-clip?tab=readme-ov-file) | - |
 | [**VIGOR: Cross-View Image Geo-Localization Beyond One-to-One Retrieval**](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_VIGOR_Cross-View_Image_Geo-Localization_Beyond_One-to-One_Retrieval_CVPR_2021_paper.html) | CVPR 2021 | [Github](https://github.com/JeffZilence/VIGOR) | - |
+| [**Cross-view Geo-localization with Layer-to-Layer Transformer**](https://proceedings.neurips.cc/paper/2021/hash/f31b20466ae89669f9741e047487eb37-Abstract.html) | NeurIPS 2021 | [Github](https://github.com/yanghongji2007/cross_view_localization_L2LTR) | - |
 | [**Where Am I Looking At? Joint Location and Orientation Estimation by Cross-View Matching**](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_Where_Am_I_Looking_At_Joint_Location_and_Orientation_Estimation_CVPR_2020_paper.html) | CVPR 2020 | [Github](https://github.com/shiyujiao/cross_view_localization_DSM.git) | - |
 | [**Large-Scale Image Geo-Localization Using Dominant Sets**](https://ieeexplore.ieee.org/abstract/document/8242680) | TPAMI 2019 | - | - |
 | [**Revisiting IM2GPS in the Deep Learning Era**](https://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html) | ICCV 2017 | - | - |
