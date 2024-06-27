@@ -11,6 +11,9 @@ Retrieval based methods consider Geo-location as a retrieval task. Generally, tr
 
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
+| [**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**](https://arxiv.org/abs/2309.16020v2) | NeurIPS 2023 |[Github](https://github.com/VicenteVivan/geo-clip?tab=readme-ov-file) | - |
+| [**VIGOR: Cross-View Image Geo-Localization Beyond One-to-One Retrieval**](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_VIGOR_Cross-View_Image_Geo-Localization_Beyond_One-to-One_Retrieval_CVPR_2021_paper.html) | CVPR 2021 | [Github](https://github.com/JeffZilence/VIGOR) | - |
+| [**Where Am I Looking At? Joint Location and Orientation Estimation by Cross-View Matching**](https://openaccess.thecvf.com/content_CVPR_2020/html/Shi_Where_Am_I_Looking_At_Joint_Location_and_Orientation_Estimation_CVPR_2020_paper.html) | CVPR 2020 | [Github](https://github.com/shiyujiao/cross_view_localization_DSM.git) | - |
 | [**Large-Scale Image Geo-Localization Using Dominant Sets**](https://ieeexplore.ieee.org/abstract/document/8242680) | TPAMI 2019 | - | - |
 | [**Revisiting IM2GPS in the Deep Learning Era**](https://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html) | ICCV 2017 | - | - |
 | [**IM2GPS: estimating geographic information from a single image**](https://ieeexplore.ieee.org/abstract/document/4587784) | CVPR 2008 | - | - |
@@ -34,7 +37,6 @@ With multi-modal learning methods like CLIP (Contrastive Language-Image Pre-trai
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
 | [**PIGEON: Predicting Image Geolocations**](https://arxiv.org/abs/2307.05845) | CVPR 2024 | [Github](https://github.com/LukasHaas/PIGEON) | - |
-| [**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**](https://arxiv.org/abs/2309.16020v2) | NeurIPS 2023 |[Github](https://github.com/VicenteVivan/geo-clip?tab=readme-ov-file) | - |
 | [**Learning Generalized Zero-Shot Learners for Open-Domain Image Geolocalization**](https://arxiv.org/abs/2302.00275) | arXiv 2023 | [HuggingFace](https://huggingface.co/geolocal/StreetCLIP) | [HuggingFace](https://huggingface.co/geolocal/StreetCLIP) |
 | [**IM2City: image geo-localization via multi-modal learning**](https://dl.acm.org/doi/abs/10.1145/3557918.3565868) | GeoAI 2022 | - | - |
 | [**G^3: Geolocation via Guidebook Grounding**](https://arxiv.org/abs/2211.15521) | EMNLP 2022 Findings | [Github](https://github.com/g-luo/geolocation_via_guidebook_grounding) | - |
