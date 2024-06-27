@@ -1,13 +1,13 @@
-# Awesome-Geo-locolization
-A Paper List for Geo-locolization Research.
+# Awesome-Geo-localization
+A Paper List for Geo-localization Research.
 
-Given a single image of streetview / scenery, Geo-locolization Task is to predict the actural location (continent / country / region / city / street / geographic coordinates) of the image.
+Given a single image of streetview / scenery, Geo-localization Task is to predict the actural location (continent / country / region / city / street / geographic coordinates) of the image.
 
 # Awesome Papers
 
 ## Retrieval Based Methods
 
-Retrieval based methods consider Geo-locolization as a retrieval task. Generally, treating the input image as a query, the retrieval task is to map the image to the most similar image in a **gallery of photos** worldwide. Or, we can map the input image to the most similar location in a gallery of locations worldwide.
+Retrieval based methods consider Geo-localization as a retrieval task. Generally, treating the input image as a query, the retrieval task is to map the image to the most similar image in a **gallery of photos** worldwide. Or, we can map the input image to the most similar location in a gallery of locations worldwide.
 
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
@@ -22,7 +22,7 @@ Retrieval based methods consider Geo-locolization as a retrieval task. Generally
 
 ## Classification Based Methods
 
-Classification based methods consider Geo-locolization as a classification task. The classification method subdivids the earth’s surface into a high number of geo-cells (in different granularities, continent, country, region, city, street, ...) and assigning each input image to one geo-cell.
+Classification based methods consider Geo-localization as a classification task. The classification method subdivids the earth’s surface into a high number of geo-cells (in different granularities, continent, country, region, city, street, ...) and assigning each input image to one geo-cell.
 
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
