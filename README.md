@@ -48,7 +48,7 @@ With multi-modal learning methods like CLIP (Contrastive Language-Image Pre-trai
 |:--------|:--------:|:--------:|:--------:|
 | [**Image and Object Geo-Localization**](https://link.springer.com/article/10.1007/s11263-023-01942-3) | IJCV 2023 | - | - |
 
-# Awesome Datasets and Benchmarks
+## Datasets and Benchmarks
 
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
