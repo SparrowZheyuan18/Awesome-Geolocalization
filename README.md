@@ -11,6 +11,8 @@ Retrieval based methods consider Geo-localization as a retrieval task. Generally
 
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
+| [**R2former: Unified retrieval and reranking transformer for place recognition**](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhu_R2Former_Unified_Retrieval_and_Reranking_Transformer_for_Place_Recognition_CVPR_2023_paper.pdf) | CVPR 2023 |[Github](https:
+//github.com/Jeff-Zilence/R2Former) | - |
 | [**GeoCLIP: Clip-Inspired Alignment between Locations and Images for Effective Worldwide Geo-localization**](https://arxiv.org/abs/2309.16020v2) | NeurIPS 2023 |[Github](https://github.com/VicenteVivan/geo-clip?tab=readme-ov-file) | - |
 | [**VIGOR: Cross-View Image Geo-Localization Beyond One-to-One Retrieval**](https://openaccess.thecvf.com/content/CVPR2021/html/Zhu_VIGOR_Cross-View_Image_Geo-Localization_Beyond_One-to-One_Retrieval_CVPR_2021_paper.html) | CVPR 2021 | [Github](https://github.com/JeffZilence/VIGOR) | - |
 | [**Cross-view Geo-localization with Layer-to-Layer Transformer**](https://proceedings.neurips.cc/paper/2021/hash/f31b20466ae89669f9741e047487eb37-Abstract.html) | NeurIPS 2021 | [Github](https://github.com/yanghongji2007/cross_view_localization_L2LTR) | - |
