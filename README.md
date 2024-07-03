@@ -69,3 +69,5 @@ With multi-modal learning methods like CLIP (Contrastive Language-Image Pre-trai
 YFCC4K：www.mediafire.com/file/3og8y3o6c9de3ye/yfcc4k.zip(.txt里面有jpg的id以及location还有其他附加信息)
 im2GPS3k:http://www.mediafire.com/file/7ht7sn78q27o9we/im2gps3ktest.zip
 im2GPS:未提供任何格式化数据:训练集数据需自己根据代码重新爬取，237张测试集没有格式化的坐标，只能在网页上查看类似动画的定位信息
+OpenStreetView:https://paperswithcode.com/dataset/openstreetview-5m
+YFCC26K:https://data.uni-hannover.de/dataset/extended-mp-16-dataset，只给了个meta_data,不太清楚怎么根据id去下图片
