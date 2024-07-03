@@ -63,3 +63,9 @@ With multi-modal learning methods like CLIP (Contrastive Language-Image Pre-trai
 # Awesome Demos
 
 [**Geospy.ai**](https://geospy.ai/)
+
+
+(草稿)：
+YFCC4K：www.mediafire.com/file/3og8y3o6c9de3ye/yfcc4k.zip
+im2GPS3k:http://www.mediafire.com/file/7ht7sn78q27o9we/im2gps3ktest.zip
+im2GPS:未提供任何格式化数据:训练集数据需自己根据代码重新爬取，237张测试集没有格式化的坐标，只能在网页上查看类似动画的定位信息
