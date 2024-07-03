@@ -59,15 +59,16 @@ With multi-modal learning methods like CLIP (Contrastive Language-Image Pre-trai
 | [**LLMGeo: Benchmarking Large Language Models on Image Geolocation In-the-wild**](https://arxiv.org/abs/2405.20363) | CVPR 2024 Workshop | - | - |
 | [**CityBench: Evaluating the Capabilities of Large Language Model as World Model**](https://arxiv.org/abs/2406.13945) | arXiv 2024 | - | - |
 
+## Commonly used test sets
 
+|  Title  |   Link   |
+|:--------|
+| [**OpenStreetView-5M**](https://arxiv.org/abs/2404.18873) | [DownloadLink](https://paperswithcode.com/dataset/openstreetview-5m) |
+| [**im2GPS3k**](https://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html) | [DownloadLink](http://www.mediafire.com/file/7ht7sn78q27o9we/im2gps3ktest.zip) |
+| [**YFCC4K**](https://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html) |[DownloadLink](www.mediafire.com/file/3og8y3o6c9de3ye/yfcc4k.zip) |
+| [**YFCC26K**](https://arxiv.org/abs/2104.14995) |[DownloadLink](https://data.uni-hannover.de/dataset/extended-mp-16-dataset)[SourceLink](https://github.com/jtheiner/semantic_geo_partitioning/tree/main/semantic_partitioning) |
 # Awesome Demos
 
 [**Geospy.ai**](https://geospy.ai/)
 
 
-(草稿)：
-YFCC4K：www.mediafire.com/file/3og8y3o6c9de3ye/yfcc4k.zip(.txt里面有jpg的id以及location还有其他附加信息)
-im2GPS3k:http://www.mediafire.com/file/7ht7sn78q27o9we/im2gps3ktest.zip
-im2GPS:未提供任何格式化数据:训练集数据需自己根据代码重新爬取，237张测试集没有格式化的坐标，只能在网页上查看类似动画的定位信息
-OpenStreetView:https://paperswithcode.com/dataset/openstreetview-5m
-YFCC26K:https://data.uni-hannover.de/dataset/extended-mp-16-dataset，https://github.com/jtheiner/semantic_geo_partitioning/tree/main/semantic_partitioning。只给了个meta_data,不太清楚怎么根据id去下图片
