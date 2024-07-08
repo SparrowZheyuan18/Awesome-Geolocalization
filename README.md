@@ -32,12 +32,13 @@ Classification based methods consider Geo-localization as a classification task.
 | [**Where in the World is this Image? Transformer-based Geo-localization in the Wild**](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136980193.pdf) | ECCV 2022 | [Github](https://github.com/ShramanPramanick/Transformer_Based_Geo-localization) | - |
 | [**Geolocation Estimation of Photos using a Hierarchical Model and Scene Classification**](https://openaccess.thecvf.com/content_ECCV_2018/papers/Eric_Muller-Budack_Geolocation_Estimation_of_ECCV_2018_paper.pdf) | ECCV 2018 | [Github](https://github.com/TIBHannover/GeoEstimation) | - |
 
-## Multi-modal Learning Methods for Classification or Generation
+## Multi-modal Learning Methods for Classification and Generation
 
 With multi-modal learning methods like CLIP (Contrastive Language-Image Pre-training), models can learn the relations between representations of location labels and images, to better predict the accurate location with classification or generation methods.
 
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
+| [**GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model**](https://arxiv.org/abs/2406.18572) | ICML 2024 | - | - |
 | [**G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**](https://arxiv.org/abs/2405.14702v1) | arXiv 2024 | - | - |
 | [**Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation**](https://arxiv.org/abs/2403.19584) | arXiv 2024 | - | - |
 | [**PIGEON: Predicting Image Geolocations**](https://arxiv.org/abs/2307.05845) | CVPR 2024 | [Github](https://github.com/LukasHaas/PIGEON) | - |
