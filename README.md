@@ -65,9 +65,9 @@ With multi-modal learning methods like CLIP (Contrastive Language-Image Pre-trai
 | Title | Link | Source Link |  
 |:------|:-----|:--------------|
 | [**OpenStreetView-5M**](https://arxiv.org/abs/2404.18873) | [DownloadLink](https://paperswithcode.com/dataset/openstreetview-5m) | 
-| [**im2GPS3k**](https://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html) | [DownloadLink](http://www.mediafire.com/file/7ht7sn78q27o9we/im2gps3ktest.zip) | 
-| [**YFCC4K**](https://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html) | [DownloadLink](www.mediafire.com/file/3og8y3o6c9de3ye/yfcc4k.zip) | 
-| [**YFCC26K**](https://arxiv.org/abs/2104.14995) | [DownloadLink](https://data.uni-hannover.de/dataset/extended-mp-16-dataset) | [SourceLink](https://github.com/jtheiner/semantic_geo_partitioning/tree/main/semantic_partitioning) |
+| [**im2GPS3k**](https://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html) | [DownloadLink](http://www.mediafire.com/file/7ht7sn78q27o9we/im2gps3ktest.zip) | [SourceLink](https://github.com/TIBHannover/GeoEstimation#Training-from-Scratch) |
+| [**YFCC4K**](https://openaccess.thecvf.com/content_iccv_2017/html/Vo_Revisiting_IM2GPS_in_ICCV_2017_paper.html) | [DownloadLink](www.mediafire.com/file/3og8y3o6c9de3ye/yfcc4k.zip) |
+| [**YFCC26K**](https://arxiv.org/abs/2104.14995) | [DownloadLink](https://data.uni-hannover.de/dataset/extended-mp-16-dataset) | [SourceLink1](https://github.com/jtheiner/semantic_geo_partitioning/tree/main/semantic_partitioning) [SourceLink2](https://github.com/TIBHannover/GeoEstimation#Training-from-Scratch)|
 
 # Awesome Demos
 
