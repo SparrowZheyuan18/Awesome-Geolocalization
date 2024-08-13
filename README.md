@@ -39,6 +39,7 @@ With multi-modal learning methods like CLIP (Contrastive Language-Image Pre-trai
 |  Title  |   Venue  |   Code   |   Demo   |
 |:--------|:--------:|:--------:|:--------:|
 | [**GeoReasoner: Geo-localization with Reasoning in Street Views using a Large Vision-Language Model**](https://arxiv.org/abs/2406.18572) | ICML 2024 | - | - |
+| [**ProGEO: Generating Prompts through Image-Text Contrastive Learning for Visual Geo-localization**](https://arxiv.org/pdf/2406.01906) | arXiv 2024 | [Github](https://github.com/Chain-Mao/ProGEO) | - |
 | [**G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models**](https://arxiv.org/abs/2405.14702v1) | arXiv 2024 | - | - |
 | [**Img2Loc: Revisiting Image Geolocalization using Multi-modality Foundation Models and Image-based Retrieval-Augmented Generation**](https://arxiv.org/abs/2403.19584) | arXiv 2024 | - | - |
 | [**PIGEON: Predicting Image Geolocations**](https://arxiv.org/abs/2307.05845) | CVPR 2024 | [Github](https://github.com/LukasHaas/PIGEON) | - |
