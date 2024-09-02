@@ -1,5 +1,5 @@
 # Awesome-Geo-localization
-A Paper List for Geo-localization Research.
+A Paper List for Image Geo-localization Research.
 
 Given a single image of streetview / scenery, Geo-localization Task is to predict the actural location (continent / country / region / city / street / geographic coordinates) of the image.
 
